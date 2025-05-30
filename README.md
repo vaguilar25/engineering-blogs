@@ -472,6 +472,7 @@
 
 #### N individuals
 * Nelson Elhage https://blog.nelhage.com/
+* Nexa Devs Andre https://nexadevs.com/blog/
 * Nic Raboy https://www.thepolyglotdeveloper.com/blog/
 * Nick Craver https://nickcraver.com/blog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
